@@ -1,0 +1,53 @@
+const horoscopes = [
+  {
+    sign: 'aquarius',
+    scope: 'People who live in an Aquarium',
+  },
+  {
+    sign: 'aries',
+    scope: 'People of the Air Nation',
+  },
+  {
+    sign: 'cancer',
+    scope: 'Crab people, crab people, look like crab, talk like people',
+  },
+  {
+    sign: 'capricorn',
+    scope: 'A caprisun Unicorn',
+  },
+  {
+    sign: 'gemini',
+    scope: 'People made of Gems',
+  },
+  {
+    sign: 'leo',
+    scope: 'Your name is automatically changed to Leo',
+  },
+  {
+    sign: 'libra',
+    scope: 'The cousins of the Llamas',
+  },
+  {
+    sign: 'pisces',
+    scope: 'People who cut their Pie into the shape of the Sea',
+  },
+  {
+    sign: 'sagittarius',
+    scope: 'A Ford Taurus that has begun to sag with age',
+  },
+  {
+    sign: 'scorpio',
+    scope: 'A colony of Scorpions',
+  },
+  {
+    sign: 'taurus',
+    scope:
+      'Not to be confused with Sagittarius, these are brand new Ford Taurus drivers',
+  },
+  {
+    sign: 'virgo',
+    scope: 'People who only will fly Virgin Airlines',
+  },
+];
+
+module.exports = { horoscopes };
